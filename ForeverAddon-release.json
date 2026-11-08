@@ -1,0 +1,15 @@
+{
+  "companion": {
+    "url": "https://github.com/geekphenixwow/ForeverAddon/releases/latest/download/ForeverAddonSetup.exe",
+    "sha256": "29a8baab88bca40d05ab18232badce851baf1a0ab22c3d287b8af4ede4a76b82",
+    "version": "0.4.1"
+  },
+  "product": "ForeverAddon",
+  "addon": {
+    "url": "https://github.com/geekphenixwow/ForeverAddon/releases/latest/download/ForeverAddon.zip",
+    "sha256": "f74533c4fcdb3ffb640c8cb52aaa172d67f77d743d4c8b034c6a29faf4f52e6e",
+    "version": "0.4.1",
+    "minCompanionVersion": "0.4.0"
+  },
+  "schema": 1
+}
